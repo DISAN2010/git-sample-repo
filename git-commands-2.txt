@@ -1,0 +1,10 @@
+git status -> prints the status of the Git Repository
+git init -> intialize the Git Repository
+git config --global user.name "DISAN2010" -> Specify User name
+git config --global user.email "jude1995disan@gmail.com"
+git config user.name "DISAN2010"
+git config user.email "jude1995disan@gmail.com"
+git add
+git commit -m ""
+git log
+Git diff <filename>
