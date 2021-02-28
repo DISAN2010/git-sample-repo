@@ -37,3 +37,48 @@ Scenario 3:
 1 Person -> Two different features
 Work on different branches
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		PrivateBranch1---------------------------
+		 |					|
+		 |					|
+----------------Master----------Release----------Master------------------------Master---------Release-----------Master-------------------
+		 |								     |
+		 |								     |Pull and then Merge
+	    PrivateBranch2-----------------------------------------------------------
